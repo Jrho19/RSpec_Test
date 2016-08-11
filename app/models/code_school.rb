@@ -1,0 +1,2 @@
+class CodeSchool < ApplicationRecord
+end
